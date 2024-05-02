@@ -12,15 +12,16 @@
 <p align="center"> 
   <a href="https://twitter.com/abhishek619raj" target="_blank"><img src="https://img.shields.io/twitter/follow/abhishek619raj?logo=twitter&style=for-the-badge" alt="abhishek619raj" /></a> 
 </p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
 
 - 🔭 I’m currently working on [Flipt](https://fliptrx.com/)
 - 🌱 I’m currently learning **React, Angular, Vue.js**
 - 💬 Ask me about **Python, Django, AWS**
 - 📫 How to reach me: **abhishek619raj@gmail.com**
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Let's Connect 🤝</h3>
 <p align="center">
