@@ -17,7 +17,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
-- 🔭 I’m currently working on [Flipt](https://fliptrx.com/)
+- 🔭 I’m currently working on [Core 42](https://www.core42.ai/)
 - 🌱 I’m currently learning **React, Angular, Vue.js**
 - 💬 Ask me about **Python, Django, AWS**
 - 📫 How to reach me: **abhishek619raj@gmail.com**
